@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bd705041.chunk.css",
+    "main.js": "./static/js/main.30ce1179.chunk.js",
+    "main.js.map": "./static/js/main.30ce1179.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.78a8e237.js",
+    "runtime-main.js.map": "./static/js/runtime-main.78a8e237.js.map",
+    "static/js/2.d237e41b.chunk.js": "./static/js/2.d237e41b.chunk.js",
+    "static/js/2.d237e41b.chunk.js.map": "./static/js/2.d237e41b.chunk.js.map",
+    "static/js/3.bfe68d99.chunk.js": "./static/js/3.bfe68d99.chunk.js",
+    "static/js/3.bfe68d99.chunk.js.map": "./static/js/3.bfe68d99.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.bd705041.chunk.css.map": "./static/css/main.bd705041.chunk.css.map",
+    "static/js/2.d237e41b.chunk.js.LICENSE.txt": "./static/js/2.d237e41b.chunk.js.LICENSE.txt",
+    "static/media/herosect.css": "./static/media/Lun.70d3f77a.jpeg",
+    "static/media/Swiggy_logo.88e6528c.png": "./static/media/Swiggy_logo.88e6528c.png",
+    "static/media/rsec1.5c564601.png": "./static/media/rsec1.5c564601.png",
+    "static/media/rsec2.8c94aa21.png": "./static/media/rsec2.8c94aa21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78a8e237.js",
+    "static/js/2.d237e41b.chunk.js",
+    "static/css/main.bd705041.chunk.css",
+    "static/js/main.30ce1179.chunk.js"
+  ]
+}
